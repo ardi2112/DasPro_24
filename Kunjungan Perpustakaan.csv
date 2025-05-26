@@ -1,0 +1,1001 @@
+NIM,Gender,Usia,Fakultas,Angkatan,Jenis Buku,Jumlah Dipinjam,lamaMeminjam,Status Pengembalian,Denda
+20001503,L,22,FEB,2023,Fiksi,2,6,Tepat Waktu,0
+20001631,P,21,FEB,2019,Jurnal Ilmiah,4,5,Tepat Waktu,0
+20001996,P,24,FEB,2021,Lainnya,2,7,Tepat Waktu,0
+20001409,L,22,Fakultas Kedokteran,2022,Lainnya,1,8,Telat,1000
+20001887,L,18,Fakultas Kedokteran,2022,Lainnya,1,3,Tepat Waktu,0
+20001862,P,21,Fakultas Kedokteran,2020,Fiksi,2,1,Tepat Waktu,0
+20001631,P,22,FEB,2022,Jurnal Ilmiah,1,7,Tepat Waktu,0
+20001358,P,22,Fakultas Teknik,2022,Fiksi,3,1,Tepat Waktu,0
+20001290,P,18,Fakultas Kedokteran,2022,Jurnal Ilmiah,1,5,Tepat Waktu,0
+20001216,P,20,Fakultas Kedokteran,2019,Lainnya,3,7,Tepat Waktu,0
+20001191,L,23,Fakultas Kedokteran,2021,Text Book,4,1,Tepat Waktu,0
+20001389,P,19,FEB,2021,Lainnya,2,4,Tepat Waktu,0
+20001994,P,21,FEB,2020,Jurnal Ilmiah,2,8,Telat,1000
+20001439,P,24,FEB,2020,Jurnal Ilmiah,2,8,Telat,1000
+20001235,L,20,Fakultas Teknik,2020,Text Book,3,2,Tepat Waktu,0
+20001446,P,22,Fakultas Kedokteran,2020,Lainnya,1,7,Tepat Waktu,0
+20001940,P,23,FEB,2019,Fiksi,3,6,Tepat Waktu,0
+20001537,L,20,Fakultas Teknik,2023,Fiksi,3,8,Telat,1000
+20001638,P,21,Fakultas Kedokteran,2021,Text Book,1,8,Telat,1000
+20001953,L,23,FEB,2020,Fiksi,2,9,Telat,2000
+20001067,L,22,Fakultas Teknik,2022,Lainnya,4,6,Tepat Waktu,0
+20001740,L,24,FEB,2022,Lainnya,4,2,Tepat Waktu,0
+20001241,L,24,Fakultas Kedokteran,2020,Text Book,2,9,Telat,2000
+20001344,P,22,Fakultas Kedokteran,2021,Jurnal Ilmiah,4,1,Tepat Waktu,0
+20001932,L,24,FEB,2021,Jurnal Ilmiah,1,2,Tepat Waktu,0
+20001117,L,23,Fakultas Kedokteran,2022,Text Book,2,3,Tepat Waktu,0
+20001497,P,23,FEB,2019,Fiksi,4,4,Tepat Waktu,0
+20001178,L,18,Fakultas Kedokteran,2020,Text Book,2,2,Tepat Waktu,0
+20001502,P,22,Fakultas Teknik,2020,Fiksi,3,2,Tepat Waktu,0
+20001141,P,20,Fakultas Kedokteran,2022,Fiksi,4,6,Tepat Waktu,0
+20001112,L,19,Fakultas Teknik,2020,Jurnal Ilmiah,4,7,Tepat Waktu,0
+20001032,P,23,Fakultas Kedokteran,2021,Jurnal Ilmiah,3,2,Tepat Waktu,0
+20001708,P,23,Fakultas Teknik,2023,Jurnal Ilmiah,3,8,Telat,1000
+20001978,P,23,FEB,2023,Jurnal Ilmiah,2,1,Tepat Waktu,0
+20001838,P,24,FEB,2022,Lainnya,1,3,Tepat Waktu,0
+20001233,L,19,Fakultas Teknik,2019,Fiksi,1,5,Tepat Waktu,0
+20001067,P,20,Fakultas Teknik,2021,Lainnya,3,3,Tepat Waktu,0
+20001911,P,19,FEB,2023,Text Book,2,6,Tepat Waktu,0
+20001256,L,20,Fakultas Kedokteran,2023,Text Book,1,9,Telat,2000
+20001239,L,19,FEB,2020,Lainnya,1,1,Tepat Waktu,0
+20001197,P,23,Fakultas Kedokteran,2020,Lainnya,4,3,Tepat Waktu,0
+20001904,P,22,Fakultas Kedokteran,2020,Text Book,1,1,Tepat Waktu,0
+20001046,P,21,Fakultas Kedokteran,2021,Text Book,3,3,Tepat Waktu,0
+20001834,P,23,FEB,2021,Jurnal Ilmiah,3,4,Tepat Waktu,0
+20001889,P,22,Fakultas Teknik,2021,Lainnya,1,3,Tepat Waktu,0
+20001287,L,23,FEB,2020,Text Book,2,1,Tepat Waktu,0
+20001200,L,23,FEB,2023,Text Book,4,5,Tepat Waktu,0
+20001532,L,20,Fakultas Teknik,2020,Text Book,4,8,Telat,1000
+20001018,L,19,FEB,2021,Jurnal Ilmiah,2,5,Tepat Waktu,0
+20001870,L,23,Fakultas Kedokteran,2019,Lainnya,3,9,Telat,2000
+20001825,P,21,Fakultas Teknik,2021,Lainnya,3,9,Telat,2000
+20001441,P,19,Fakultas Teknik,2022,Jurnal Ilmiah,3,9,Telat,2000
+20001740,L,22,Fakultas Kedokteran,2019,Lainnya,1,1,Tepat Waktu,0
+20001592,L,18,FEB,2020,Lainnya,2,6,Tepat Waktu,0
+20001567,P,21,FEB,2019,Lainnya,1,4,Tepat Waktu,0
+20001598,P,21,FEB,2021,Lainnya,3,2,Tepat Waktu,0
+20001657,L,22,Fakultas Teknik,2019,Lainnya,1,7,Tepat Waktu,0
+20001479,L,24,FEB,2023,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001800,P,18,Fakultas Teknik,2019,Jurnal Ilmiah,1,6,Tepat Waktu,0
+20001260,P,18,FEB,2021,Lainnya,3,3,Tepat Waktu,0
+20001645,P,21,FEB,2022,Fiksi,1,9,Telat,2000
+20001209,L,22,FEB,2022,Lainnya,2,1,Tepat Waktu,0
+20001758,L,21,Fakultas Kedokteran,2021,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001761,L,23,Fakultas Kedokteran,2020,Jurnal Ilmiah,3,4,Tepat Waktu,0
+20001798,L,23,FEB,2019,Lainnya,2,5,Tepat Waktu,0
+20001613,P,18,FEB,2023,Fiksi,4,8,Telat,1000
+20001817,L,20,FEB,2019,Fiksi,2,2,Tepat Waktu,0
+20001577,P,20,FEB,2023,Text Book,4,3,Tepat Waktu,0
+20001390,L,18,Fakultas Teknik,2019,Text Book,3,2,Tepat Waktu,0
+20001213,P,18,FEB,2023,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001804,L,22,Fakultas Kedokteran,2022,Lainnya,2,7,Tepat Waktu,0
+20001744,L,23,FEB,2022,Fiksi,3,7,Tepat Waktu,0
+20001866,L,18,Fakultas Kedokteran,2020,Jurnal Ilmiah,2,2,Tepat Waktu,0
+20001595,L,23,FEB,2021,Jurnal Ilmiah,2,1,Tepat Waktu,0
+20001973,L,23,Fakultas Teknik,2022,Lainnya,1,1,Tepat Waktu,0
+20001342,P,21,Fakultas Teknik,2022,Text Book,4,5,Tepat Waktu,0
+20001592,L,18,Fakultas Kedokteran,2022,Fiksi,3,9,Telat,2000
+20001589,L,23,FEB,2019,Jurnal Ilmiah,3,2,Tepat Waktu,0
+20001123,L,21,Fakultas Kedokteran,2021,Text Book,1,7,Tepat Waktu,0
+20001490,P,22,Fakultas Kedokteran,2022,Text Book,4,7,Tepat Waktu,0
+20001807,L,23,FEB,2020,Text Book,1,6,Tepat Waktu,0
+20001877,P,19,Fakultas Teknik,2022,Text Book,3,4,Tepat Waktu,0
+20001156,P,19,FEB,2019,Text Book,3,4,Tepat Waktu,0
+20001178,L,23,Fakultas Kedokteran,2020,Text Book,3,1,Tepat Waktu,0
+20001721,P,21,Fakultas Kedokteran,2023,Fiksi,4,9,Telat,2000
+20001618,L,20,Fakultas Teknik,2019,Text Book,4,7,Tepat Waktu,0
+20001518,L,22,Fakultas Teknik,2021,Fiksi,2,3,Tepat Waktu,0
+20001538,P,20,FEB,2019,Text Book,3,2,Tepat Waktu,0
+20001431,P,19,FEB,2020,Fiksi,1,9,Telat,2000
+20001445,L,19,FEB,2020,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001804,P,22,Fakultas Kedokteran,2023,Fiksi,2,1,Tepat Waktu,0
+20001848,L,20,Fakultas Teknik,2023,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001060,L,18,Fakultas Kedokteran,2019,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001397,P,19,FEB,2023,Lainnya,1,9,Telat,2000
+20001868,L,24,FEB,2019,Fiksi,4,5,Tepat Waktu,0
+20001544,P,18,FEB,2021,Jurnal Ilmiah,1,1,Tepat Waktu,0
+20001365,L,18,FEB,2022,Text Book,2,7,Tepat Waktu,0
+20001991,L,18,Fakultas Kedokteran,2023,Fiksi,3,5,Tepat Waktu,0
+20001156,L,20,Fakultas Teknik,2019,Text Book,2,6,Tepat Waktu,0
+20001824,P,24,Fakultas Kedokteran,2021,Jurnal Ilmiah,2,4,Tepat Waktu,0
+20001214,P,21,Fakultas Kedokteran,2022,Text Book,3,7,Tepat Waktu,0
+20001156,P,21,FEB,2020,Text Book,4,2,Tepat Waktu,0
+20001010,L,19,Fakultas Teknik,2023,Lainnya,4,5,Tepat Waktu,0
+20001811,L,19,FEB,2022,Text Book,2,2,Tepat Waktu,0
+20001073,P,24,Fakultas Teknik,2021,Fiksi,4,4,Tepat Waktu,0
+20001076,L,24,FEB,2021,Fiksi,2,4,Tepat Waktu,0
+20001448,L,18,FEB,2023,Text Book,1,2,Tepat Waktu,0
+20001759,P,23,FEB,2022,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001050,L,22,Fakultas Teknik,2023,Text Book,3,9,Telat,2000
+20001560,L,19,FEB,2023,Jurnal Ilmiah,3,7,Tepat Waktu,0
+20001928,P,18,FEB,2020,Text Book,1,8,Telat,1000
+20001434,P,19,FEB,2023,Fiksi,3,1,Tepat Waktu,0
+20001120,P,22,Fakultas Teknik,2021,Jurnal Ilmiah,2,1,Tepat Waktu,0
+20001567,P,18,Fakultas Teknik,2021,Fiksi,2,3,Tepat Waktu,0
+20001252,L,20,FEB,2022,Lainnya,1,1,Tepat Waktu,0
+20001512,P,18,FEB,2019,Text Book,1,7,Tepat Waktu,0
+20001330,P,19,Fakultas Kedokteran,2019,Jurnal Ilmiah,3,5,Tepat Waktu,0
+20001209,L,18,Fakultas Kedokteran,2020,Fiksi,2,4,Tepat Waktu,0
+20001509,P,23,FEB,2023,Fiksi,2,5,Tepat Waktu,0
+20001238,P,24,Fakultas Kedokteran,2022,Text Book,2,5,Tepat Waktu,0
+20001963,P,20,Fakultas Kedokteran,2020,Jurnal Ilmiah,2,1,Tepat Waktu,0
+20001009,P,24,Fakultas Kedokteran,2023,Lainnya,3,9,Telat,2000
+20001577,P,21,Fakultas Teknik,2023,Text Book,2,9,Telat,2000
+20001250,L,21,Fakultas Teknik,2022,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001907,L,23,Fakultas Teknik,2023,Fiksi,1,1,Tepat Waktu,0
+20001431,L,20,FEB,2023,Jurnal Ilmiah,1,2,Tepat Waktu,0
+20001435,L,23,Fakultas Kedokteran,2023,Lainnya,3,7,Tepat Waktu,0
+20001535,P,20,FEB,2021,Fiksi,1,1,Tepat Waktu,0
+20001045,L,18,Fakultas Kedokteran,2020,Text Book,4,5,Tepat Waktu,0
+20001250,P,18,Fakultas Teknik,2020,Lainnya,3,8,Telat,1000
+20001645,P,19,Fakultas Kedokteran,2020,Jurnal Ilmiah,3,9,Telat,2000
+20001633,P,22,Fakultas Teknik,2023,Lainnya,2,4,Tepat Waktu,0
+20001449,L,24,Fakultas Kedokteran,2023,Fiksi,2,6,Tepat Waktu,0
+20001163,P,22,FEB,2021,Jurnal Ilmiah,3,9,Telat,2000
+20001920,P,22,Fakultas Teknik,2023,Lainnya,4,8,Telat,1000
+20001405,P,24,Fakultas Kedokteran,2022,Lainnya,2,8,Telat,1000
+20001429,L,19,Fakultas Teknik,2021,Jurnal Ilmiah,3,3,Tepat Waktu,0
+20001199,P,23,Fakultas Teknik,2019,Lainnya,1,8,Telat,1000
+20001141,L,18,Fakultas Kedokteran,2020,Lainnya,3,9,Telat,2000
+20001580,L,20,Fakultas Kedokteran,2020,Text Book,1,9,Telat,2000
+20001923,L,23,FEB,2019,Fiksi,3,2,Tepat Waktu,0
+20001651,P,20,FEB,2022,Text Book,2,6,Tepat Waktu,0
+20001918,L,21,Fakultas Kedokteran,2023,Fiksi,3,7,Tepat Waktu,0
+20001589,L,21,Fakultas Kedokteran,2023,Text Book,1,8,Telat,1000
+20001293,L,19,Fakultas Kedokteran,2020,Jurnal Ilmiah,2,9,Telat,2000
+20001786,L,24,Fakultas Kedokteran,2019,Jurnal Ilmiah,3,4,Tepat Waktu,0
+20001731,P,24,FEB,2019,Text Book,1,1,Tepat Waktu,0
+20001009,L,20,Fakultas Kedokteran,2021,Lainnya,3,3,Tepat Waktu,0
+20001109,P,21,FEB,2020,Text Book,3,3,Tepat Waktu,0
+20001316,L,22,Fakultas Kedokteran,2021,Lainnya,4,5,Tepat Waktu,0
+20001258,L,20,Fakultas Kedokteran,2019,Jurnal Ilmiah,2,5,Tepat Waktu,0
+20001358,P,24,FEB,2023,Lainnya,2,7,Tepat Waktu,0
+20001285,L,20,FEB,2023,Jurnal Ilmiah,4,5,Tepat Waktu,0
+20001475,P,20,Fakultas Teknik,2020,Jurnal Ilmiah,1,3,Tepat Waktu,0
+20001984,L,18,Fakultas Teknik,2021,Fiksi,2,8,Telat,1000
+20001697,P,22,Fakultas Teknik,2019,Lainnya,2,4,Tepat Waktu,0
+20001018,P,24,Fakultas Kedokteran,2019,Fiksi,3,1,Tepat Waktu,0
+20001990,L,23,FEB,2021,Fiksi,4,7,Tepat Waktu,0
+20001166,L,22,Fakultas Kedokteran,2021,Lainnya,2,6,Tepat Waktu,0
+20001845,L,18,Fakultas Teknik,2022,Lainnya,1,2,Tepat Waktu,0
+20001245,P,18,Fakultas Teknik,2020,Text Book,4,8,Telat,1000
+20001786,L,24,FEB,2020,Text Book,4,3,Tepat Waktu,0
+20001669,P,21,Fakultas Kedokteran,2022,Lainnya,2,8,Telat,1000
+20001198,P,19,Fakultas Teknik,2022,Fiksi,4,9,Telat,2000
+20001276,L,18,Fakultas Kedokteran,2019,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001002,P,20,Fakultas Kedokteran,2023,Text Book,4,1,Tepat Waktu,0
+20001739,L,24,Fakultas Teknik,2019,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001569,L,24,Fakultas Teknik,2020,Fiksi,4,1,Tepat Waktu,0
+20001996,P,23,Fakultas Teknik,2021,Fiksi,3,9,Telat,2000
+20001543,P,19,Fakultas Kedokteran,2021,Jurnal Ilmiah,1,9,Telat,2000
+20001337,L,20,Fakultas Teknik,2023,Text Book,1,6,Tepat Waktu,0
+20001694,P,18,Fakultas Teknik,2023,Fiksi,3,1,Tepat Waktu,0
+20001383,P,23,Fakultas Teknik,2019,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001432,L,23,Fakultas Teknik,2020,Lainnya,4,7,Tepat Waktu,0
+20001434,P,21,Fakultas Kedokteran,2022,Text Book,1,6,Tepat Waktu,0
+20001940,P,19,FEB,2019,Fiksi,3,4,Tepat Waktu,0
+20001994,P,23,Fakultas Teknik,2020,Text Book,4,9,Telat,2000
+20001170,P,22,Fakultas Teknik,2020,Lainnya,1,3,Tepat Waktu,0
+20001126,L,18,Fakultas Kedokteran,2019,Fiksi,4,5,Tepat Waktu,0
+20001276,L,23,Fakultas Kedokteran,2020,Jurnal Ilmiah,1,8,Telat,1000
+20001798,P,21,Fakultas Teknik,2021,Text Book,4,3,Tepat Waktu,0
+20001607,P,22,Fakultas Kedokteran,2020,Text Book,4,7,Tepat Waktu,0
+20001344,P,21,Fakultas Teknik,2020,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001550,L,22,Fakultas Kedokteran,2022,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001403,L,22,Fakultas Kedokteran,2019,Text Book,3,4,Tepat Waktu,0
+20001274,P,24,Fakultas Teknik,2019,Text Book,3,7,Tepat Waktu,0
+20001585,L,21,FEB,2020,Lainnya,2,3,Tepat Waktu,0
+20001273,L,23,Fakultas Teknik,2019,Lainnya,3,8,Telat,1000
+20001787,P,21,Fakultas Teknik,2023,Jurnal Ilmiah,4,3,Tepat Waktu,0
+20001784,L,19,Fakultas Kedokteran,2019,Jurnal Ilmiah,2,5,Tepat Waktu,0
+20001305,L,23,FEB,2021,Text Book,1,6,Tepat Waktu,0
+20001765,L,22,Fakultas Kedokteran,2020,Lainnya,3,3,Tepat Waktu,0
+20001102,L,18,FEB,2019,Text Book,1,1,Tepat Waktu,0
+20001820,P,24,Fakultas Teknik,2021,Fiksi,3,3,Tepat Waktu,0
+20001998,P,19,Fakultas Teknik,2021,Fiksi,2,4,Tepat Waktu,0
+20001808,L,23,Fakultas Teknik,2022,Lainnya,2,5,Tepat Waktu,0
+20001607,P,23,FEB,2020,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001499,L,18,Fakultas Kedokteran,2022,Text Book,1,5,Tepat Waktu,0
+20001675,P,18,Fakultas Kedokteran,2023,Lainnya,1,4,Tepat Waktu,0
+20001199,P,20,FEB,2022,Lainnya,4,3,Tepat Waktu,0
+20001419,L,19,FEB,2021,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001700,L,21,Fakultas Kedokteran,2023,Jurnal Ilmiah,4,5,Tepat Waktu,0
+20001128,P,20,FEB,2021,Text Book,2,5,Tepat Waktu,0
+20001078,P,20,Fakultas Kedokteran,2019,Lainnya,1,8,Telat,1000
+20001577,P,22,Fakultas Teknik,2023,Text Book,4,8,Telat,1000
+20001886,P,21,Fakultas Kedokteran,2023,Fiksi,1,5,Tepat Waktu,0
+20001846,P,20,FEB,2023,Text Book,2,4,Tepat Waktu,0
+20001371,L,21,Fakultas Kedokteran,2021,Fiksi,3,8,Telat,1000
+20001025,L,18,FEB,2022,Text Book,1,1,Tepat Waktu,0
+20001771,L,24,Fakultas Kedokteran,2020,Lainnya,3,9,Telat,2000
+20001026,L,23,Fakultas Teknik,2022,Lainnya,2,5,Tepat Waktu,0
+20001422,L,18,FEB,2020,Fiksi,4,8,Telat,1000
+20001240,L,19,FEB,2019,Fiksi,1,2,Tepat Waktu,0
+20001922,P,18,FEB,2019,Lainnya,4,4,Tepat Waktu,0
+20001580,L,22,Fakultas Teknik,2019,Fiksi,3,9,Telat,2000
+20001827,P,23,FEB,2019,Fiksi,4,8,Telat,1000
+20001301,L,18,FEB,2021,Lainnya,3,8,Telat,1000
+20001053,P,18,FEB,2022,Fiksi,1,5,Tepat Waktu,0
+20001861,P,18,Fakultas Kedokteran,2022,Jurnal Ilmiah,2,2,Tepat Waktu,0
+20001921,L,23,FEB,2021,Fiksi,1,5,Tepat Waktu,0
+20001166,P,23,Fakultas Teknik,2019,Lainnya,3,4,Tepat Waktu,0
+20001916,L,23,Fakultas Teknik,2019,Jurnal Ilmiah,1,7,Tepat Waktu,0
+20001884,L,23,Fakultas Kedokteran,2022,Lainnya,1,9,Telat,2000
+20001061,P,21,Fakultas Kedokteran,2020,Text Book,3,6,Tepat Waktu,0
+20001068,L,24,Fakultas Kedokteran,2021,Lainnya,1,9,Telat,2000
+20001456,P,19,FEB,2023,Jurnal Ilmiah,3,7,Tepat Waktu,0
+20001090,L,24,FEB,2021,Fiksi,2,3,Tepat Waktu,0
+20001983,P,24,Fakultas Kedokteran,2021,Jurnal Ilmiah,3,3,Tepat Waktu,0
+20001653,L,22,Fakultas Teknik,2022,Fiksi,1,5,Tepat Waktu,0
+20001937,P,20,Fakultas Teknik,2020,Jurnal Ilmiah,2,7,Tepat Waktu,0
+20001028,L,18,Fakultas Teknik,2023,Text Book,4,8,Telat,1000
+20001266,L,23,Fakultas Kedokteran,2023,Text Book,4,3,Tepat Waktu,0
+20001962,P,20,Fakultas Teknik,2021,Text Book,3,4,Tepat Waktu,0
+20001782,P,21,Fakultas Kedokteran,2020,Fiksi,1,6,Tepat Waktu,0
+20001778,L,18,Fakultas Teknik,2022,Text Book,2,1,Tepat Waktu,0
+20001315,L,23,Fakultas Teknik,2020,Lainnya,2,4,Tepat Waktu,0
+20001554,P,19,Fakultas Teknik,2019,Lainnya,2,4,Tepat Waktu,0
+20001921,P,22,Fakultas Kedokteran,2019,Text Book,4,4,Tepat Waktu,0
+20001518,P,20,Fakultas Kedokteran,2023,Fiksi,1,5,Tepat Waktu,0
+20001779,P,20,Fakultas Kedokteran,2022,Fiksi,1,7,Tepat Waktu,0
+20001652,L,18,FEB,2023,Lainnya,1,1,Tepat Waktu,0
+20001014,L,20,FEB,2023,Fiksi,2,2,Tepat Waktu,0
+20001361,P,23,Fakultas Kedokteran,2021,Lainnya,3,7,Tepat Waktu,0
+20001864,P,23,FEB,2019,Jurnal Ilmiah,2,9,Telat,2000
+20001867,P,18,FEB,2021,Jurnal Ilmiah,4,8,Telat,1000
+20001066,P,18,Fakultas Kedokteran,2021,Fiksi,4,7,Tepat Waktu,0
+20001758,L,24,FEB,2021,Lainnya,2,1,Tepat Waktu,0
+20001349,L,20,FEB,2019,Jurnal Ilmiah,2,2,Tepat Waktu,0
+20001680,L,22,Fakultas Teknik,2020,Lainnya,2,9,Telat,2000
+20001350,P,23,FEB,2019,Text Book,1,3,Tepat Waktu,0
+20001359,L,18,Fakultas Teknik,2023,Jurnal Ilmiah,2,3,Tepat Waktu,0
+20001432,P,21,Fakultas Kedokteran,2021,Text Book,3,7,Tepat Waktu,0
+20001644,P,24,Fakultas Kedokteran,2019,Lainnya,3,5,Tepat Waktu,0
+20001069,L,19,Fakultas Teknik,2019,Jurnal Ilmiah,4,3,Tepat Waktu,0
+20001269,P,20,Fakultas Teknik,2020,Fiksi,3,4,Tepat Waktu,0
+20001518,P,24,Fakultas Kedokteran,2019,Fiksi,2,5,Tepat Waktu,0
+20001022,L,18,Fakultas Teknik,2023,Lainnya,2,9,Telat,2000
+20001009,P,21,FEB,2019,Lainnya,3,8,Telat,1000
+20001893,P,19,FEB,2023,Fiksi,3,7,Tepat Waktu,0
+20001754,L,20,Fakultas Teknik,2019,Lainnya,2,3,Tepat Waktu,0
+20001717,P,18,Fakultas Kedokteran,2022,Jurnal Ilmiah,2,2,Tepat Waktu,0
+20001829,P,24,Fakultas Teknik,2023,Text Book,2,1,Tepat Waktu,0
+20001870,P,23,Fakultas Kedokteran,2022,Fiksi,2,7,Tepat Waktu,0
+20001234,L,24,FEB,2021,Lainnya,4,7,Tepat Waktu,0
+20001044,P,19,FEB,2023,Jurnal Ilmiah,1,3,Tepat Waktu,0
+20001093,L,21,FEB,2020,Fiksi,2,3,Tepat Waktu,0
+20001212,L,23,Fakultas Kedokteran,2019,Text Book,4,2,Tepat Waktu,0
+20001767,P,22,Fakultas Teknik,2022,Lainnya,3,3,Tepat Waktu,0
+20001388,L,24,FEB,2019,Fiksi,4,4,Tepat Waktu,0
+20001399,P,24,FEB,2023,Jurnal Ilmiah,2,9,Telat,2000
+20001461,P,18,Fakultas Kedokteran,2023,Fiksi,2,3,Tepat Waktu,0
+20001468,L,21,FEB,2019,Text Book,3,1,Tepat Waktu,0
+20001477,L,18,FEB,2023,Fiksi,3,8,Telat,1000
+20001085,P,20,Fakultas Teknik,2020,Fiksi,2,3,Tepat Waktu,0
+20001214,L,19,FEB,2020,Lainnya,2,2,Tepat Waktu,0
+20001517,L,20,Fakultas Kedokteran,2019,Jurnal Ilmiah,3,9,Telat,2000
+20001581,P,21,Fakultas Teknik,2023,Lainnya,1,5,Tepat Waktu,0
+20001199,L,23,FEB,2019,Fiksi,3,6,Tepat Waktu,0
+20001658,P,21,Fakultas Teknik,2021,Text Book,1,3,Tepat Waktu,0
+20001337,P,18,FEB,2022,Jurnal Ilmiah,1,9,Telat,2000
+20001659,P,20,Fakultas Teknik,2019,Lainnya,4,7,Tepat Waktu,0
+20001259,P,23,Fakultas Teknik,2022,Jurnal Ilmiah,4,9,Telat,2000
+20001059,P,24,Fakultas Kedokteran,2022,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001034,L,22,Fakultas Teknik,2021,Lainnya,3,1,Tepat Waktu,0
+20001834,P,23,Fakultas Teknik,2020,Fiksi,4,7,Tepat Waktu,0
+20001364,P,24,FEB,2019,Jurnal Ilmiah,1,2,Tepat Waktu,0
+20001839,L,20,Fakultas Kedokteran,2019,Fiksi,1,8,Telat,1000
+20001224,L,24,Fakultas Kedokteran,2019,Lainnya,4,6,Tepat Waktu,0
+20001622,P,19,Fakultas Kedokteran,2022,Lainnya,1,7,Tepat Waktu,0
+20001159,P,21,FEB,2022,Fiksi,3,7,Tepat Waktu,0
+20001390,L,18,Fakultas Teknik,2023,Text Book,2,1,Tepat Waktu,0
+20001863,L,22,Fakultas Kedokteran,2021,Fiksi,3,5,Tepat Waktu,0
+20001914,L,22,Fakultas Teknik,2022,Fiksi,2,2,Tepat Waktu,0
+20001885,P,23,Fakultas Kedokteran,2023,Lainnya,4,4,Tepat Waktu,0
+20001598,P,21,FEB,2022,Lainnya,1,9,Telat,2000
+20001326,L,18,FEB,2022,Fiksi,3,9,Telat,2000
+20001278,P,20,FEB,2021,Lainnya,3,6,Tepat Waktu,0
+20001361,L,18,Fakultas Teknik,2019,Fiksi,4,9,Telat,2000
+20001408,P,24,FEB,2023,Lainnya,4,4,Tepat Waktu,0
+20001073,L,18,Fakultas Kedokteran,2019,Jurnal Ilmiah,1,5,Tepat Waktu,0
+20001366,P,23,Fakultas Kedokteran,2022,Text Book,2,2,Tepat Waktu,0
+20001600,L,19,Fakultas Kedokteran,2022,Lainnya,4,9,Telat,2000
+20001114,P,19,Fakultas Kedokteran,2023,Fiksi,1,7,Tepat Waktu,0
+20001066,P,19,FEB,2022,Text Book,2,8,Telat,1000
+20001258,L,24,Fakultas Kedokteran,2023,Lainnya,1,7,Tepat Waktu,0
+20001487,P,19,Fakultas Teknik,2020,Text Book,4,4,Tepat Waktu,0
+20001535,P,22,Fakultas Kedokteran,2022,Fiksi,4,8,Telat,1000
+20001237,L,20,FEB,2019,Jurnal Ilmiah,3,9,Telat,2000
+20001773,L,20,FEB,2023,Fiksi,3,3,Tepat Waktu,0
+20001048,L,23,Fakultas Kedokteran,2021,Lainnya,4,5,Tepat Waktu,0
+20001298,L,23,Fakultas Kedokteran,2020,Text Book,1,5,Tepat Waktu,0
+20001516,L,21,FEB,2023,Lainnya,1,6,Tepat Waktu,0
+20001288,L,18,Fakultas Kedokteran,2022,Fiksi,3,6,Tepat Waktu,0
+20001588,L,18,FEB,2023,Jurnal Ilmiah,1,6,Tepat Waktu,0
+20001939,L,23,Fakultas Teknik,2022,Text Book,2,3,Tepat Waktu,0
+20001228,L,19,FEB,2020,Text Book,1,7,Tepat Waktu,0
+20001067,L,19,FEB,2021,Jurnal Ilmiah,4,1,Tepat Waktu,0
+20001340,P,24,FEB,2023,Text Book,4,2,Tepat Waktu,0
+20001638,P,20,Fakultas Kedokteran,2022,Jurnal Ilmiah,3,4,Tepat Waktu,0
+20001809,P,23,FEB,2023,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001906,L,20,Fakultas Teknik,2021,Lainnya,1,9,Telat,2000
+20001638,L,20,Fakultas Kedokteran,2022,Lainnya,4,9,Telat,2000
+20001245,P,23,Fakultas Kedokteran,2022,Fiksi,2,8,Telat,1000
+20001722,P,21,Fakultas Teknik,2019,Lainnya,3,8,Telat,1000
+20001098,P,19,Fakultas Teknik,2019,Fiksi,4,8,Telat,1000
+20001260,L,20,Fakultas Teknik,2020,Fiksi,2,5,Tepat Waktu,0
+20001864,L,21,Fakultas Teknik,2020,Fiksi,3,6,Tepat Waktu,0
+20001649,P,18,Fakultas Kedokteran,2019,Fiksi,2,3,Tepat Waktu,0
+20001618,L,21,Fakultas Kedokteran,2021,Jurnal Ilmiah,1,2,Tepat Waktu,0
+20001279,P,19,Fakultas Kedokteran,2020,Fiksi,3,5,Tepat Waktu,0
+20001159,L,21,FEB,2020,Text Book,4,7,Tepat Waktu,0
+20001513,P,24,FEB,2021,Jurnal Ilmiah,2,1,Tepat Waktu,0
+20001580,P,23,Fakultas Kedokteran,2022,Fiksi,1,1,Tepat Waktu,0
+20001346,P,24,Fakultas Kedokteran,2023,Fiksi,2,6,Tepat Waktu,0
+20001337,P,18,Fakultas Teknik,2020,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001727,L,22,FEB,2021,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001822,L,23,FEB,2023,Text Book,3,4,Tepat Waktu,0
+20001686,L,21,Fakultas Kedokteran,2021,Text Book,2,6,Tepat Waktu,0
+20001244,P,21,Fakultas Kedokteran,2023,Lainnya,3,8,Telat,1000
+20001708,P,18,Fakultas Teknik,2022,Jurnal Ilmiah,4,3,Tepat Waktu,0
+20001719,P,20,Fakultas Teknik,2019,Lainnya,4,9,Telat,2000
+20001382,L,22,Fakultas Kedokteran,2020,Lainnya,2,6,Tepat Waktu,0
+20001846,L,22,FEB,2022,Fiksi,4,2,Tepat Waktu,0
+20001688,L,23,FEB,2020,Text Book,1,2,Tepat Waktu,0
+20001112,P,19,Fakultas Kedokteran,2023,Jurnal Ilmiah,3,8,Telat,1000
+20001627,P,18,FEB,2019,Text Book,2,5,Tepat Waktu,0
+20001529,P,18,Fakultas Teknik,2020,Jurnal Ilmiah,3,8,Telat,1000
+20001588,P,21,FEB,2021,Fiksi,4,4,Tepat Waktu,0
+20001637,P,24,FEB,2022,Fiksi,1,2,Tepat Waktu,0
+20001282,P,18,Fakultas Kedokteran,2020,Lainnya,2,6,Tepat Waktu,0
+20001200,L,18,Fakultas Teknik,2020,Fiksi,1,3,Tepat Waktu,0
+20001182,L,22,FEB,2019,Fiksi,1,5,Tepat Waktu,0
+20001582,L,21,FEB,2020,Fiksi,4,5,Tepat Waktu,0
+20001883,P,22,FEB,2023,Text Book,1,7,Tepat Waktu,0
+20001485,L,19,Fakultas Teknik,2020,Jurnal Ilmiah,3,2,Tepat Waktu,0
+20001539,L,23,FEB,2022,Lainnya,1,3,Tepat Waktu,0
+20001945,L,22,Fakultas Teknik,2021,Fiksi,2,2,Tepat Waktu,0
+20001570,L,20,Fakultas Kedokteran,2022,Jurnal Ilmiah,1,8,Telat,1000
+20001704,L,19,Fakultas Kedokteran,2020,Text Book,3,8,Telat,1000
+20001432,P,22,Fakultas Kedokteran,2022,Fiksi,4,1,Tepat Waktu,0
+20001099,P,23,Fakultas Kedokteran,2020,Jurnal Ilmiah,1,7,Tepat Waktu,0
+20001378,P,24,Fakultas Kedokteran,2022,Text Book,3,1,Tepat Waktu,0
+20001378,L,20,FEB,2023,Lainnya,2,7,Tepat Waktu,0
+20001589,P,19,Fakultas Teknik,2019,Fiksi,4,5,Tepat Waktu,0
+20001464,P,19,FEB,2019,Lainnya,4,6,Tepat Waktu,0
+20001164,P,21,Fakultas Teknik,2022,Fiksi,1,7,Tepat Waktu,0
+20001428,P,19,Fakultas Teknik,2021,Fiksi,1,8,Telat,1000
+20001753,P,20,FEB,2020,Jurnal Ilmiah,2,2,Tepat Waktu,0
+20001601,P,22,Fakultas Kedokteran,2021,Jurnal Ilmiah,2,4,Tepat Waktu,0
+20001403,P,18,FEB,2023,Fiksi,2,8,Telat,1000
+20001459,P,22,FEB,2022,Lainnya,1,9,Telat,2000
+20001600,P,23,Fakultas Kedokteran,2020,Jurnal Ilmiah,1,1,Tepat Waktu,0
+20001236,P,22,Fakultas Kedokteran,2019,Text Book,1,9,Telat,2000
+20001469,P,23,Fakultas Kedokteran,2019,Fiksi,3,6,Tepat Waktu,0
+20001800,P,19,Fakultas Teknik,2020,Lainnya,2,5,Tepat Waktu,0
+20001307,P,19,Fakultas Kedokteran,2021,Text Book,1,4,Tepat Waktu,0
+20001667,L,23,Fakultas Teknik,2019,Fiksi,4,7,Tepat Waktu,0
+20001486,L,23,FEB,2019,Text Book,4,7,Tepat Waktu,0
+20001903,P,24,FEB,2022,Lainnya,3,1,Tepat Waktu,0
+20001075,L,18,FEB,2022,Text Book,2,4,Tepat Waktu,0
+20001512,P,20,Fakultas Kedokteran,2022,Text Book,3,7,Tepat Waktu,0
+20001552,L,19,FEB,2023,Text Book,3,3,Tepat Waktu,0
+20001339,L,23,Fakultas Teknik,2021,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001095,P,23,FEB,2020,Lainnya,3,2,Tepat Waktu,0
+20001676,P,21,Fakultas Kedokteran,2021,Fiksi,1,6,Tepat Waktu,0
+20001134,P,20,Fakultas Teknik,2020,Jurnal Ilmiah,2,9,Telat,2000
+20001951,P,23,FEB,2023,Lainnya,3,2,Tepat Waktu,0
+20001137,P,21,Fakultas Kedokteran,2023,Fiksi,4,6,Tepat Waktu,0
+20001879,P,19,Fakultas Teknik,2019,Text Book,2,8,Telat,1000
+20001300,P,19,FEB,2022,Fiksi,4,3,Tepat Waktu,0
+20001695,L,22,Fakultas Kedokteran,2019,Jurnal Ilmiah,2,7,Tepat Waktu,0
+20001787,P,18,FEB,2021,Fiksi,4,6,Tepat Waktu,0
+20001835,P,23,Fakultas Teknik,2022,Text Book,4,5,Tepat Waktu,0
+20001539,L,23,Fakultas Kedokteran,2023,Fiksi,1,8,Telat,1000
+20001529,L,19,Fakultas Teknik,2019,Fiksi,1,6,Tepat Waktu,0
+20001167,P,18,Fakultas Teknik,2021,Text Book,2,4,Tepat Waktu,0
+20001317,P,22,Fakultas Kedokteran,2021,Jurnal Ilmiah,4,7,Tepat Waktu,0
+20001280,L,24,Fakultas Kedokteran,2020,Lainnya,4,1,Tepat Waktu,0
+20001181,L,22,FEB,2019,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001133,L,22,Fakultas Kedokteran,2023,Jurnal Ilmiah,4,1,Tepat Waktu,0
+20001840,L,21,Fakultas Kedokteran,2022,Jurnal Ilmiah,4,7,Tepat Waktu,0
+20001832,P,20,Fakultas Teknik,2021,Text Book,3,9,Telat,2000
+20001374,P,21,Fakultas Teknik,2020,Fiksi,1,5,Tepat Waktu,0
+20001014,L,20,Fakultas Teknik,2020,Text Book,3,7,Tepat Waktu,0
+20001425,L,22,Fakultas Teknik,2019,Text Book,1,4,Tepat Waktu,0
+20001840,L,24,Fakultas Teknik,2019,Lainnya,3,1,Tepat Waktu,0
+20001385,L,24,Fakultas Teknik,2022,Fiksi,3,8,Telat,1000
+20001564,L,19,Fakultas Teknik,2020,Lainnya,3,7,Tepat Waktu,0
+20001478,L,19,FEB,2022,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001647,L,20,Fakultas Kedokteran,2019,Lainnya,2,9,Telat,2000
+20001098,L,23,Fakultas Teknik,2020,Text Book,2,7,Tepat Waktu,0
+20001112,P,24,Fakultas Kedokteran,2023,Lainnya,3,8,Telat,1000
+20001990,L,20,Fakultas Kedokteran,2020,Fiksi,2,9,Telat,2000
+20001102,L,23,Fakultas Teknik,2020,Lainnya,3,4,Tepat Waktu,0
+20001068,P,21,FEB,2019,Lainnya,3,7,Tepat Waktu,0
+20001834,L,21,Fakultas Kedokteran,2020,Lainnya,1,3,Tepat Waktu,0
+20001540,L,24,Fakultas Kedokteran,2019,Jurnal Ilmiah,1,1,Tepat Waktu,0
+20001183,P,22,FEB,2023,Lainnya,1,5,Tepat Waktu,0
+20001617,P,23,FEB,2020,Text Book,3,6,Tepat Waktu,0
+20001432,P,24,FEB,2020,Lainnya,1,8,Telat,1000
+20001592,P,18,FEB,2019,Lainnya,1,8,Telat,1000
+20001197,P,24,Fakultas Kedokteran,2020,Lainnya,1,5,Tepat Waktu,0
+20001585,P,21,FEB,2022,Text Book,2,2,Tepat Waktu,0
+20001500,P,24,Fakultas Teknik,2021,Lainnya,2,6,Tepat Waktu,0
+20001360,P,18,Fakultas Teknik,2023,Jurnal Ilmiah,3,9,Telat,2000
+20001959,L,20,Fakultas Kedokteran,2022,Text Book,1,4,Tepat Waktu,0
+20001402,L,19,FEB,2021,Lainnya,1,7,Tepat Waktu,0
+20001022,L,24,FEB,2022,Lainnya,2,7,Tepat Waktu,0
+20001355,P,20,Fakultas Kedokteran,2019,Text Book,1,8,Telat,1000
+20001967,P,23,Fakultas Teknik,2021,Jurnal Ilmiah,2,5,Tepat Waktu,0
+20001896,L,24,Fakultas Kedokteran,2021,Text Book,3,8,Telat,1000
+20001432,L,23,Fakultas Teknik,2022,Fiksi,2,1,Tepat Waktu,0
+20001345,L,24,Fakultas Teknik,2019,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001563,L,22,Fakultas Kedokteran,2022,Lainnya,4,6,Tepat Waktu,0
+20001935,L,18,FEB,2020,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001909,P,18,Fakultas Kedokteran,2020,Jurnal Ilmiah,1,3,Tepat Waktu,0
+20001607,P,20,FEB,2022,Jurnal Ilmiah,1,7,Tepat Waktu,0
+20001731,P,22,Fakultas Kedokteran,2020,Text Book,4,9,Telat,2000
+20001733,P,21,Fakultas Teknik,2019,Fiksi,2,3,Tepat Waktu,0
+20001139,L,18,Fakultas Teknik,2019,Lainnya,3,9,Telat,2000
+20001572,L,22,FEB,2021,Text Book,1,5,Tepat Waktu,0
+20001291,P,23,Fakultas Kedokteran,2019,Text Book,4,4,Tepat Waktu,0
+20001110,P,23,FEB,2021,Text Book,4,7,Tepat Waktu,0
+20001807,L,23,Fakultas Kedokteran,2023,Lainnya,3,1,Tepat Waktu,0
+20001950,L,22,Fakultas Kedokteran,2020,Jurnal Ilmiah,4,7,Tepat Waktu,0
+20001922,L,22,FEB,2019,Fiksi,4,8,Telat,1000
+20001180,P,18,Fakultas Teknik,2019,Jurnal Ilmiah,2,9,Telat,2000
+20001363,L,22,Fakultas Kedokteran,2020,Lainnya,2,7,Tepat Waktu,0
+20001708,L,23,Fakultas Kedokteran,2019,Lainnya,1,8,Telat,1000
+20001174,L,18,Fakultas Teknik,2021,Lainnya,1,6,Tepat Waktu,0
+20001601,P,21,Fakultas Teknik,2022,Fiksi,1,5,Tepat Waktu,0
+20001901,L,23,Fakultas Teknik,2019,Jurnal Ilmiah,3,1,Tepat Waktu,0
+20001927,L,21,Fakultas Teknik,2022,Jurnal Ilmiah,2,7,Tepat Waktu,0
+20001541,P,21,Fakultas Kedokteran,2021,Lainnya,4,2,Tepat Waktu,0
+20001354,L,19,Fakultas Kedokteran,2020,Fiksi,2,5,Tepat Waktu,0
+20001268,L,23,FEB,2023,Jurnal Ilmiah,4,5,Tepat Waktu,0
+20001110,L,19,Fakultas Kedokteran,2022,Lainnya,2,3,Tepat Waktu,0
+20001090,L,20,FEB,2023,Text Book,1,1,Tepat Waktu,0
+20001734,P,21,FEB,2021,Fiksi,3,9,Telat,2000
+20001279,P,18,FEB,2019,Lainnya,1,3,Tepat Waktu,0
+20001905,P,22,FEB,2021,Fiksi,3,2,Tepat Waktu,0
+20001550,P,19,FEB,2021,Lainnya,3,8,Telat,1000
+20001622,L,22,Fakultas Kedokteran,2021,Lainnya,1,3,Tepat Waktu,0
+20001798,P,18,Fakultas Teknik,2020,Text Book,3,5,Tepat Waktu,0
+20001024,L,20,FEB,2021,Lainnya,4,2,Tepat Waktu,0
+20001464,L,19,FEB,2023,Fiksi,3,7,Tepat Waktu,0
+20001940,L,23,FEB,2023,Text Book,4,3,Tepat Waktu,0
+20001638,L,20,Fakultas Teknik,2020,Lainnya,3,8,Telat,1000
+20001693,P,24,FEB,2022,Text Book,1,6,Tepat Waktu,0
+20001087,P,24,FEB,2022,Jurnal Ilmiah,1,1,Tepat Waktu,0
+20001611,L,23,Fakultas Kedokteran,2020,Text Book,2,9,Telat,2000
+20001858,P,23,Fakultas Kedokteran,2021,Text Book,2,7,Tepat Waktu,0
+20001933,L,23,Fakultas Teknik,2021,Text Book,4,7,Tepat Waktu,0
+20001699,L,24,FEB,2023,Jurnal Ilmiah,4,1,Tepat Waktu,0
+20001331,P,24,Fakultas Kedokteran,2019,Text Book,4,4,Tepat Waktu,0
+20001602,P,20,FEB,2023,Text Book,3,9,Telat,2000
+20001337,L,22,Fakultas Kedokteran,2021,Jurnal Ilmiah,1,5,Tepat Waktu,0
+20001101,L,23,Fakultas Kedokteran,2022,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001730,P,20,FEB,2019,Text Book,4,5,Tepat Waktu,0
+20001808,P,19,Fakultas Teknik,2020,Text Book,1,2,Tepat Waktu,0
+20001873,P,22,Fakultas Kedokteran,2019,Fiksi,3,8,Telat,1000
+20001192,L,22,Fakultas Kedokteran,2023,Text Book,2,7,Tepat Waktu,0
+20001888,P,24,FEB,2019,Lainnya,3,7,Tepat Waktu,0
+20001599,P,20,Fakultas Kedokteran,2022,Lainnya,3,8,Telat,1000
+20001965,P,23,Fakultas Teknik,2023,Lainnya,3,4,Tepat Waktu,0
+20001160,L,22,FEB,2021,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001632,L,19,FEB,2021,Text Book,3,4,Tepat Waktu,0
+20001871,P,24,FEB,2019,Fiksi,1,3,Tepat Waktu,0
+20001276,P,22,Fakultas Teknik,2022,Fiksi,1,7,Tepat Waktu,0
+20001175,L,21,Fakultas Kedokteran,2021,Lainnya,4,1,Tepat Waktu,0
+20001226,P,22,FEB,2021,Lainnya,4,6,Tepat Waktu,0
+20001649,P,22,Fakultas Kedokteran,2020,Text Book,3,1,Tepat Waktu,0
+20001932,P,22,FEB,2022,Fiksi,3,9,Telat,2000
+20001585,P,18,Fakultas Teknik,2020,Text Book,3,6,Tepat Waktu,0
+20001525,P,21,Fakultas Kedokteran,2023,Fiksi,4,7,Tepat Waktu,0
+20001760,P,19,Fakultas Teknik,2022,Fiksi,3,4,Tepat Waktu,0
+20001711,L,20,Fakultas Kedokteran,2023,Lainnya,1,8,Telat,1000
+20001677,P,20,FEB,2020,Jurnal Ilmiah,3,6,Tepat Waktu,0
+20001518,P,18,FEB,2021,Fiksi,1,3,Tepat Waktu,0
+20001865,L,18,FEB,2021,Text Book,4,7,Tepat Waktu,0
+20001872,P,23,Fakultas Teknik,2020,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001223,P,20,FEB,2021,Jurnal Ilmiah,4,5,Tepat Waktu,0
+20001611,L,21,FEB,2023,Lainnya,3,1,Tepat Waktu,0
+20001566,P,24,Fakultas Teknik,2020,Fiksi,2,2,Tepat Waktu,0
+20001798,P,22,Fakultas Teknik,2019,Lainnya,1,5,Tepat Waktu,0
+20001584,P,24,Fakultas Teknik,2020,Fiksi,1,9,Telat,2000
+20001695,L,19,Fakultas Kedokteran,2021,Lainnya,2,5,Tepat Waktu,0
+20001351,P,23,FEB,2023,Text Book,1,3,Tepat Waktu,0
+20001309,P,18,Fakultas Teknik,2019,Fiksi,1,6,Tepat Waktu,0
+20001148,P,18,FEB,2023,Fiksi,4,5,Tepat Waktu,0
+20001866,L,18,FEB,2019,Lainnya,3,5,Tepat Waktu,0
+20001072,P,18,Fakultas Teknik,2021,Lainnya,4,2,Tepat Waktu,0
+20001007,L,20,Fakultas Kedokteran,2020,Text Book,3,5,Tepat Waktu,0
+20001383,P,23,Fakultas Kedokteran,2020,Fiksi,1,2,Tepat Waktu,0
+20001998,L,19,Fakultas Teknik,2021,Text Book,4,6,Tepat Waktu,0
+20001314,L,20,Fakultas Teknik,2023,Jurnal Ilmiah,3,7,Tepat Waktu,0
+20001707,L,19,FEB,2019,Text Book,2,6,Tepat Waktu,0
+20001249,L,23,FEB,2020,Fiksi,4,8,Telat,1000
+20001646,P,19,Fakultas Teknik,2022,Fiksi,2,3,Tepat Waktu,0
+20001856,L,19,FEB,2022,Fiksi,3,4,Tepat Waktu,0
+20001923,P,20,Fakultas Teknik,2023,Lainnya,2,8,Telat,1000
+20001418,P,21,Fakultas Kedokteran,2021,Lainnya,1,9,Telat,2000
+20001893,P,24,Fakultas Teknik,2020,Jurnal Ilmiah,2,3,Tepat Waktu,0
+20001998,P,24,Fakultas Teknik,2023,Fiksi,2,1,Tepat Waktu,0
+20001294,L,19,FEB,2020,Lainnya,4,9,Telat,2000
+20001655,L,21,FEB,2019,Lainnya,3,8,Telat,1000
+20001379,P,18,Fakultas Teknik,2020,Lainnya,1,7,Tepat Waktu,0
+20001281,P,24,FEB,2021,Lainnya,1,9,Telat,2000
+20001209,P,19,Fakultas Kedokteran,2021,Text Book,3,3,Tepat Waktu,0
+20001005,L,20,Fakultas Teknik,2019,Fiksi,3,6,Tepat Waktu,0
+20001690,P,24,FEB,2021,Text Book,1,7,Tepat Waktu,0
+20001785,L,24,Fakultas Kedokteran,2020,Text Book,1,3,Tepat Waktu,0
+20001434,L,18,Fakultas Teknik,2022,Lainnya,2,4,Tepat Waktu,0
+20001734,L,21,Fakultas Teknik,2021,Text Book,3,5,Tepat Waktu,0
+20001439,P,24,Fakultas Teknik,2019,Lainnya,2,5,Tepat Waktu,0
+20001301,L,24,Fakultas Kedokteran,2021,Fiksi,3,8,Telat,1000
+20001586,P,20,FEB,2023,Text Book,3,6,Tepat Waktu,0
+20001028,P,22,FEB,2020,Jurnal Ilmiah,3,5,Tepat Waktu,0
+20001556,P,20,Fakultas Kedokteran,2020,Text Book,2,2,Tepat Waktu,0
+20001509,P,23,Fakultas Kedokteran,2021,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001959,L,24,Fakultas Teknik,2019,Lainnya,3,9,Telat,2000
+20001290,P,20,Fakultas Kedokteran,2021,Text Book,4,1,Tepat Waktu,0
+20001606,P,22,FEB,2020,Jurnal Ilmiah,3,1,Tepat Waktu,0
+20001115,L,20,Fakultas Teknik,2019,Lainnya,2,7,Tepat Waktu,0
+20001968,L,18,Fakultas Kedokteran,2020,Lainnya,1,1,Tepat Waktu,0
+20001912,P,18,Fakultas Kedokteran,2020,Text Book,3,5,Tepat Waktu,0
+20001278,P,20,Fakultas Teknik,2019,Lainnya,1,1,Tepat Waktu,0
+20001052,P,19,Fakultas Teknik,2019,Jurnal Ilmiah,3,2,Tepat Waktu,0
+20001858,P,23,Fakultas Teknik,2023,Text Book,2,4,Tepat Waktu,0
+20001125,P,22,Fakultas Kedokteran,2022,Fiksi,2,6,Tepat Waktu,0
+20001125,L,19,Fakultas Teknik,2020,Text Book,2,5,Tepat Waktu,0
+20001907,P,20,FEB,2019,Lainnya,3,7,Tepat Waktu,0
+20001374,P,19,Fakultas Teknik,2020,Text Book,3,8,Telat,1000
+20001982,P,23,Fakultas Kedokteran,2020,Jurnal Ilmiah,3,1,Tepat Waktu,0
+20001160,P,22,Fakultas Kedokteran,2019,Fiksi,3,4,Tepat Waktu,0
+20001221,L,18,Fakultas Kedokteran,2020,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001197,L,24,Fakultas Teknik,2023,Fiksi,1,6,Tepat Waktu,0
+20001759,P,23,Fakultas Kedokteran,2021,Text Book,2,6,Tepat Waktu,0
+20001189,P,23,Fakultas Teknik,2021,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001949,P,24,Fakultas Teknik,2023,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001605,P,22,Fakultas Kedokteran,2019,Lainnya,3,3,Tepat Waktu,0
+20001365,P,21,FEB,2021,Text Book,2,9,Telat,2000
+20001299,L,24,Fakultas Teknik,2021,Lainnya,3,3,Tepat Waktu,0
+20001115,P,18,Fakultas Teknik,2019,Text Book,3,6,Tepat Waktu,0
+20001846,L,19,Fakultas Kedokteran,2021,Text Book,1,1,Tepat Waktu,0
+20001320,P,19,FEB,2019,Fiksi,3,6,Tepat Waktu,0
+20001703,P,23,Fakultas Kedokteran,2020,Text Book,4,7,Tepat Waktu,0
+20001460,L,20,Fakultas Kedokteran,2023,Fiksi,2,4,Tepat Waktu,0
+20001891,P,20,Fakultas Kedokteran,2022,Lainnya,4,5,Tepat Waktu,0
+20001861,P,21,Fakultas Teknik,2022,Text Book,2,1,Tepat Waktu,0
+20001844,P,24,FEB,2022,Lainnya,2,1,Tepat Waktu,0
+20001946,P,19,Fakultas Kedokteran,2022,Lainnya,2,4,Tepat Waktu,0
+20001995,P,24,Fakultas Kedokteran,2021,Text Book,2,3,Tepat Waktu,0
+20001712,P,24,Fakultas Kedokteran,2021,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001596,L,20,Fakultas Kedokteran,2021,Jurnal Ilmiah,2,8,Telat,1000
+20001907,P,19,Fakultas Teknik,2019,Lainnya,2,3,Tepat Waktu,0
+20001716,P,23,FEB,2019,Fiksi,3,6,Tepat Waktu,0
+20001272,L,19,Fakultas Teknik,2022,Lainnya,4,4,Tepat Waktu,0
+20001050,P,23,FEB,2022,Lainnya,3,2,Tepat Waktu,0
+20001592,L,24,Fakultas Kedokteran,2022,Fiksi,4,6,Tepat Waktu,0
+20001995,L,21,Fakultas Teknik,2019,Fiksi,3,9,Telat,2000
+20001468,L,22,Fakultas Teknik,2020,Lainnya,4,3,Tepat Waktu,0
+20001972,P,19,FEB,2023,Jurnal Ilmiah,4,8,Telat,1000
+20001778,L,21,Fakultas Kedokteran,2019,Jurnal Ilmiah,2,7,Tepat Waktu,0
+20001855,P,18,FEB,2023,Jurnal Ilmiah,2,1,Tepat Waktu,0
+20001709,P,23,Fakultas Kedokteran,2023,Lainnya,4,6,Tepat Waktu,0
+20001846,P,19,Fakultas Kedokteran,2022,Lainnya,1,2,Tepat Waktu,0
+20001730,P,21,Fakultas Kedokteran,2022,Text Book,2,5,Tepat Waktu,0
+20001485,P,22,Fakultas Teknik,2022,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001349,P,23,Fakultas Kedokteran,2023,Lainnya,4,9,Telat,2000
+20001523,L,22,Fakultas Teknik,2023,Text Book,3,4,Tepat Waktu,0
+20001139,P,22,Fakultas Kedokteran,2021,Fiksi,2,1,Tepat Waktu,0
+20001450,L,21,Fakultas Kedokteran,2021,Lainnya,2,9,Telat,2000
+20001628,P,19,Fakultas Kedokteran,2021,Text Book,3,4,Tepat Waktu,0
+20001242,L,18,Fakultas Kedokteran,2022,Fiksi,2,4,Tepat Waktu,0
+20001796,L,21,FEB,2019,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001074,P,19,FEB,2023,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001272,L,21,Fakultas Teknik,2022,Jurnal Ilmiah,3,7,Tepat Waktu,0
+20001874,L,22,FEB,2022,Text Book,3,1,Tepat Waktu,0
+20001093,L,20,Fakultas Teknik,2022,Jurnal Ilmiah,3,5,Tepat Waktu,0
+20001843,P,23,FEB,2019,Fiksi,4,7,Tepat Waktu,0
+20001109,P,23,Fakultas Kedokteran,2019,Fiksi,1,5,Tepat Waktu,0
+20001556,P,18,FEB,2023,Fiksi,2,8,Telat,1000
+20001714,L,19,FEB,2022,Lainnya,3,7,Tepat Waktu,0
+20001658,L,23,Fakultas Kedokteran,2021,Fiksi,3,8,Telat,1000
+20001191,L,21,Fakultas Kedokteran,2023,Lainnya,1,4,Tepat Waktu,0
+20001518,L,22,Fakultas Kedokteran,2021,Lainnya,1,5,Tepat Waktu,0
+20001263,L,23,Fakultas Teknik,2022,Fiksi,1,4,Tepat Waktu,0
+20001727,L,22,Fakultas Kedokteran,2019,Lainnya,1,1,Tepat Waktu,0
+20001801,P,19,FEB,2019,Fiksi,3,4,Tepat Waktu,0
+20001886,L,23,Fakultas Teknik,2019,Lainnya,1,6,Tepat Waktu,0
+20001232,L,21,FEB,2023,Lainnya,2,4,Tepat Waktu,0
+20001387,P,22,Fakultas Teknik,2021,Text Book,4,9,Telat,2000
+20001880,P,20,Fakultas Kedokteran,2020,Text Book,2,5,Tepat Waktu,0
+20001171,P,24,Fakultas Teknik,2020,Text Book,4,6,Tepat Waktu,0
+20001139,P,23,FEB,2022,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001073,L,24,Fakultas Kedokteran,2019,Lainnya,4,4,Tepat Waktu,0
+20001213,L,19,Fakultas Kedokteran,2020,Lainnya,3,5,Tepat Waktu,0
+20001314,P,18,Fakultas Kedokteran,2022,Jurnal Ilmiah,3,4,Tepat Waktu,0
+20001749,L,22,Fakultas Teknik,2022,Text Book,4,8,Telat,1000
+20001342,L,22,Fakultas Teknik,2019,Jurnal Ilmiah,3,7,Tepat Waktu,0
+20001990,P,21,FEB,2019,Jurnal Ilmiah,2,8,Telat,1000
+20001566,L,21,Fakultas Teknik,2021,Jurnal Ilmiah,4,3,Tepat Waktu,0
+20001716,L,24,FEB,2021,Jurnal Ilmiah,2,4,Tepat Waktu,0
+20001751,L,20,FEB,2019,Fiksi,4,1,Tepat Waktu,0
+20001731,L,19,Fakultas Teknik,2019,Lainnya,1,4,Tepat Waktu,0
+20001016,L,19,Fakultas Teknik,2021,Lainnya,3,8,Telat,1000
+20001043,P,20,Fakultas Kedokteran,2022,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001522,L,22,FEB,2021,Lainnya,3,3,Tepat Waktu,0
+20001877,P,18,Fakultas Kedokteran,2022,Lainnya,4,2,Tepat Waktu,0
+20001157,L,20,FEB,2023,Fiksi,4,3,Tepat Waktu,0
+20001406,P,21,FEB,2021,Jurnal Ilmiah,4,3,Tepat Waktu,0
+20001083,P,20,FEB,2021,Lainnya,3,6,Tepat Waktu,0
+20001571,L,21,Fakultas Teknik,2023,Text Book,3,3,Tepat Waktu,0
+20001091,P,21,Fakultas Kedokteran,2023,Lainnya,2,4,Tepat Waktu,0
+20001281,P,19,Fakultas Kedokteran,2021,Jurnal Ilmiah,2,3,Tepat Waktu,0
+20001349,L,18,Fakultas Teknik,2023,Fiksi,1,8,Telat,1000
+20001790,L,21,Fakultas Kedokteran,2019,Lainnya,3,5,Tepat Waktu,0
+20001002,P,19,FEB,2021,Fiksi,3,3,Tepat Waktu,0
+20001831,L,23,Fakultas Teknik,2022,Text Book,4,8,Telat,1000
+20001764,P,22,Fakultas Teknik,2019,Jurnal Ilmiah,2,5,Tepat Waktu,0
+20001813,L,20,FEB,2020,Jurnal Ilmiah,3,3,Tepat Waktu,0
+20001796,P,18,Fakultas Kedokteran,2020,Fiksi,3,2,Tepat Waktu,0
+20001232,P,21,Fakultas Teknik,2023,Jurnal Ilmiah,3,7,Tepat Waktu,0
+20001780,L,20,Fakultas Kedokteran,2020,Jurnal Ilmiah,4,9,Telat,2000
+20001923,P,20,FEB,2020,Fiksi,4,8,Telat,1000
+20001199,P,20,Fakultas Kedokteran,2022,Jurnal Ilmiah,4,5,Tepat Waktu,0
+20001499,L,21,Fakultas Kedokteran,2021,Fiksi,1,5,Tepat Waktu,0
+20001127,L,23,FEB,2022,Fiksi,1,9,Telat,2000
+20001281,L,18,Fakultas Teknik,2020,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001618,P,22,Fakultas Teknik,2023,Lainnya,2,7,Tepat Waktu,0
+20001950,L,23,FEB,2019,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001799,L,24,Fakultas Kedokteran,2021,Fiksi,4,8,Telat,1000
+20001132,L,24,Fakultas Teknik,2022,Text Book,1,8,Telat,1000
+20001032,P,23,Fakultas Teknik,2020,Jurnal Ilmiah,1,8,Telat,1000
+20001955,P,21,Fakultas Kedokteran,2023,Lainnya,2,4,Tepat Waktu,0
+20001282,P,22,Fakultas Kedokteran,2022,Fiksi,3,8,Telat,1000
+20001095,P,23,Fakultas Teknik,2022,Lainnya,3,9,Telat,2000
+20001516,L,23,Fakultas Teknik,2023,Lainnya,1,5,Tepat Waktu,0
+20001113,P,21,Fakultas Teknik,2020,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001349,P,18,Fakultas Teknik,2020,Fiksi,4,3,Tepat Waktu,0
+20001560,L,23,Fakultas Kedokteran,2021,Jurnal Ilmiah,3,8,Telat,1000
+20001786,P,23,FEB,2019,Lainnya,4,3,Tepat Waktu,0
+20001127,P,23,FEB,2020,Text Book,4,9,Telat,2000
+20001164,P,24,Fakultas Kedokteran,2020,Lainnya,4,9,Telat,2000
+20001351,P,24,Fakultas Kedokteran,2020,Text Book,4,3,Tepat Waktu,0
+20001199,L,23,Fakultas Teknik,2023,Fiksi,2,7,Tepat Waktu,0
+20001181,L,19,FEB,2023,Lainnya,4,2,Tepat Waktu,0
+20001874,L,23,Fakultas Kedokteran,2022,Fiksi,2,4,Tepat Waktu,0
+20001335,L,21,Fakultas Teknik,2020,Text Book,3,8,Telat,1000
+20001301,L,18,FEB,2020,Fiksi,1,4,Tepat Waktu,0
+20001898,P,18,FEB,2022,Fiksi,1,5,Tepat Waktu,0
+20001967,L,24,Fakultas Kedokteran,2021,Lainnya,1,9,Telat,2000
+20001976,P,20,Fakultas Teknik,2020,Fiksi,4,9,Telat,2000
+20001746,L,23,FEB,2020,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001957,L,21,FEB,2021,Text Book,1,5,Tepat Waktu,0
+20001127,P,23,FEB,2021,Jurnal Ilmiah,2,7,Tepat Waktu,0
+20001211,L,23,Fakultas Kedokteran,2020,Text Book,4,8,Telat,1000
+20001158,L,24,Fakultas Teknik,2023,Lainnya,1,9,Telat,2000
+20001279,P,18,FEB,2023,Jurnal Ilmiah,2,9,Telat,2000
+20001998,P,22,Fakultas Teknik,2019,Lainnya,3,8,Telat,1000
+20001941,P,23,FEB,2019,Text Book,3,7,Tepat Waktu,0
+20001677,P,23,FEB,2020,Text Book,3,4,Tepat Waktu,0
+20001759,L,18,FEB,2020,Lainnya,1,6,Tepat Waktu,0
+20001966,L,24,FEB,2022,Fiksi,2,5,Tepat Waktu,0
+20001612,L,24,FEB,2023,Jurnal Ilmiah,4,5,Tepat Waktu,0
+20001769,L,18,Fakultas Kedokteran,2021,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001930,P,19,Fakultas Kedokteran,2023,Lainnya,1,4,Tepat Waktu,0
+20001943,P,24,Fakultas Teknik,2019,Fiksi,1,6,Tepat Waktu,0
+20001724,P,21,FEB,2019,Jurnal Ilmiah,3,7,Tepat Waktu,0
+20001371,P,21,Fakultas Teknik,2020,Lainnya,4,5,Tepat Waktu,0
+20001839,P,24,Fakultas Teknik,2019,Fiksi,2,2,Tepat Waktu,0
+20001128,L,20,Fakultas Teknik,2023,Jurnal Ilmiah,4,9,Telat,2000
+20001004,P,20,FEB,2022,Fiksi,3,8,Telat,1000
+20001443,L,24,Fakultas Kedokteran,2020,Lainnya,1,3,Tepat Waktu,0
+20001608,P,19,Fakultas Teknik,2020,Jurnal Ilmiah,1,7,Tepat Waktu,0
+20001127,P,24,Fakultas Kedokteran,2023,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001234,P,24,FEB,2019,Fiksi,2,9,Telat,2000
+20001212,P,19,Fakultas Teknik,2021,Lainnya,2,5,Tepat Waktu,0
+20001270,P,23,FEB,2020,Lainnya,1,5,Tepat Waktu,0
+20001866,L,23,FEB,2021,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001618,L,23,Fakultas Kedokteran,2019,Jurnal Ilmiah,2,3,Tepat Waktu,0
+20001463,L,21,FEB,2019,Fiksi,1,6,Tepat Waktu,0
+20001939,P,22,Fakultas Teknik,2019,Jurnal Ilmiah,1,2,Tepat Waktu,0
+20001079,L,24,Fakultas Teknik,2023,Fiksi,2,6,Tepat Waktu,0
+20001851,P,18,Fakultas Kedokteran,2020,Lainnya,2,3,Tepat Waktu,0
+20001394,L,22,Fakultas Teknik,2021,Lainnya,3,8,Telat,1000
+20001108,L,19,FEB,2019,Text Book,1,5,Tepat Waktu,0
+20001325,L,24,Fakultas Teknik,2020,Lainnya,3,8,Telat,1000
+20001746,P,20,Fakultas Teknik,2023,Jurnal Ilmiah,3,6,Tepat Waktu,0
+20001109,P,21,Fakultas Kedokteran,2019,Lainnya,4,6,Tepat Waktu,0
+20001951,P,18,FEB,2019,Jurnal Ilmiah,2,2,Tepat Waktu,0
+20001413,L,24,FEB,2019,Jurnal Ilmiah,1,9,Telat,2000
+20001440,P,20,Fakultas Kedokteran,2020,Lainnya,3,4,Tepat Waktu,0
+20001930,L,22,Fakultas Teknik,2020,Fiksi,1,9,Telat,2000
+20001318,P,23,Fakultas Kedokteran,2023,Fiksi,1,9,Telat,2000
+20001041,P,23,Fakultas Teknik,2019,Fiksi,1,6,Tepat Waktu,0
+20001518,L,19,Fakultas Teknik,2023,Lainnya,3,1,Tepat Waktu,0
+20001619,P,20,FEB,2022,Text Book,4,6,Tepat Waktu,0
+20001069,P,23,Fakultas Kedokteran,2020,Text Book,1,1,Tepat Waktu,0
+20001358,P,24,FEB,2019,Lainnya,4,4,Tepat Waktu,0
+20001990,P,20,Fakultas Teknik,2021,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001142,L,22,Fakultas Teknik,2020,Fiksi,3,1,Tepat Waktu,0
+20001751,P,18,Fakultas Kedokteran,2023,Fiksi,4,8,Telat,1000
+20001220,P,24,Fakultas Kedokteran,2020,Fiksi,1,5,Tepat Waktu,0
+20001823,L,23,Fakultas Kedokteran,2022,Text Book,4,6,Tepat Waktu,0
+20001984,L,20,Fakultas Kedokteran,2022,Fiksi,4,3,Tepat Waktu,0
+20001248,P,18,Fakultas Kedokteran,2022,Lainnya,1,5,Tepat Waktu,0
+20001520,P,23,Fakultas Teknik,2021,Text Book,1,7,Tepat Waktu,0
+20001891,P,18,Fakultas Kedokteran,2021,Fiksi,2,3,Tepat Waktu,0
+20001497,P,21,FEB,2019,Jurnal Ilmiah,2,4,Tepat Waktu,0
+20001507,P,19,Fakultas Teknik,2021,Lainnya,3,6,Tepat Waktu,0
+20001596,P,24,Fakultas Teknik,2021,Lainnya,2,3,Tepat Waktu,0
+20001635,L,23,Fakultas Kedokteran,2022,Fiksi,3,8,Telat,1000
+20001648,L,20,Fakultas Kedokteran,2019,Text Book,4,5,Tepat Waktu,0
+20001501,L,24,Fakultas Teknik,2022,Jurnal Ilmiah,4,8,Telat,1000
+20001448,P,18,Fakultas Kedokteran,2021,Fiksi,4,7,Tepat Waktu,0
+20001158,P,21,Fakultas Teknik,2021,Fiksi,1,4,Tepat Waktu,0
+20001599,P,19,Fakultas Teknik,2019,Lainnya,1,2,Tepat Waktu,0
+20001440,L,23,Fakultas Kedokteran,2021,Fiksi,1,8,Telat,1000
+20001998,P,19,FEB,2023,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001794,L,23,Fakultas Teknik,2019,Text Book,2,5,Tepat Waktu,0
+20001093,L,19,Fakultas Teknik,2021,Jurnal Ilmiah,3,8,Telat,1000
+20001350,L,23,Fakultas Kedokteran,2021,Text Book,4,5,Tepat Waktu,0
+20001763,L,21,FEB,2020,Lainnya,3,5,Tepat Waktu,0
+20001420,P,21,FEB,2019,Fiksi,2,6,Tepat Waktu,0
+20001027,P,24,FEB,2019,Lainnya,3,8,Telat,1000
+20001517,L,24,Fakultas Kedokteran,2021,Lainnya,4,1,Tepat Waktu,0
+20001512,P,21,FEB,2019,Jurnal Ilmiah,4,3,Tepat Waktu,0
+20001050,L,20,FEB,2023,Jurnal Ilmiah,3,6,Tepat Waktu,0
+20001641,L,18,Fakultas Teknik,2022,Lainnya,2,1,Tepat Waktu,0
+20001694,P,20,FEB,2020,Lainnya,4,4,Tepat Waktu,0
+20001448,P,19,Fakultas Teknik,2021,Jurnal Ilmiah,3,5,Tepat Waktu,0
+20001919,L,23,Fakultas Teknik,2021,Lainnya,1,6,Tepat Waktu,0
+20001043,P,21,Fakultas Teknik,2022,Fiksi,4,1,Tepat Waktu,0
+20001540,L,19,FEB,2020,Lainnya,3,6,Tepat Waktu,0
+20001695,L,18,FEB,2021,Fiksi,1,1,Tepat Waktu,0
+20001003,P,23,Fakultas Kedokteran,2022,Fiksi,1,9,Telat,2000
+20001921,L,19,Fakultas Kedokteran,2022,Text Book,1,5,Tepat Waktu,0
+20001123,P,18,Fakultas Teknik,2023,Lainnya,4,7,Tepat Waktu,0
+20001595,L,21,Fakultas Teknik,2020,Text Book,2,4,Tepat Waktu,0
+20001069,L,23,Fakultas Kedokteran,2019,Text Book,1,5,Tepat Waktu,0
+20001915,P,21,Fakultas Teknik,2021,Lainnya,2,1,Tepat Waktu,0
+20001808,L,22,Fakultas Kedokteran,2023,Lainnya,2,6,Tepat Waktu,0
+20001313,L,23,Fakultas Teknik,2019,Lainnya,2,8,Telat,1000
+20001329,L,18,Fakultas Teknik,2022,Lainnya,2,9,Telat,2000
+20001523,P,23,Fakultas Kedokteran,2019,Text Book,4,3,Tepat Waktu,0
+20001561,L,24,Fakultas Kedokteran,2020,Jurnal Ilmiah,3,8,Telat,1000
+20001005,P,20,Fakultas Teknik,2020,Text Book,3,5,Tepat Waktu,0
+20001679,L,22,Fakultas Kedokteran,2021,Jurnal Ilmiah,1,1,Tepat Waktu,0
+20001177,L,19,Fakultas Teknik,2020,Text Book,1,1,Tepat Waktu,0
+20001779,L,24,Fakultas Teknik,2021,Text Book,3,6,Tepat Waktu,0
+20001026,P,24,FEB,2023,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001844,L,22,FEB,2020,Lainnya,1,1,Tepat Waktu,0
+20001819,L,19,Fakultas Kedokteran,2023,Text Book,3,8,Telat,1000
+20001658,P,20,FEB,2023,Text Book,3,7,Tepat Waktu,0
+20001038,P,21,FEB,2020,Fiksi,1,2,Tepat Waktu,0
+20001144,P,20,FEB,2022,Lainnya,1,1,Tepat Waktu,0
+20001982,L,22,Fakultas Teknik,2020,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001889,L,22,Fakultas Kedokteran,2023,Text Book,3,5,Tepat Waktu,0
+20001556,P,23,Fakultas Teknik,2020,Lainnya,1,8,Telat,1000
+20001246,P,22,Fakultas Teknik,2022,Jurnal Ilmiah,3,3,Tepat Waktu,0
+20001815,L,24,FEB,2021,Lainnya,1,1,Tepat Waktu,0
+20001640,P,20,Fakultas Kedokteran,2019,Jurnal Ilmiah,2,1,Tepat Waktu,0
+20001113,P,20,Fakultas Kedokteran,2019,Text Book,2,3,Tepat Waktu,0
+20001220,P,21,Fakultas Kedokteran,2019,Text Book,2,2,Tepat Waktu,0
+20001659,L,19,FEB,2022,Jurnal Ilmiah,2,1,Tepat Waktu,0
+20001066,P,23,Fakultas Teknik,2021,Text Book,3,1,Tepat Waktu,0
+20001772,P,19,Fakultas Kedokteran,2020,Lainnya,1,5,Tepat Waktu,0
+20001360,P,20,Fakultas Teknik,2020,Text Book,2,5,Tepat Waktu,0
+20001252,P,23,FEB,2023,Jurnal Ilmiah,3,9,Telat,2000
+20001197,P,24,Fakultas Kedokteran,2022,Jurnal Ilmiah,3,3,Tepat Waktu,0
+20001799,L,19,Fakultas Kedokteran,2021,Text Book,3,4,Tepat Waktu,0
+20001893,P,24,FEB,2021,Lainnya,4,5,Tepat Waktu,0
+20001759,P,24,FEB,2023,Fiksi,1,5,Tepat Waktu,0
+20001249,P,24,Fakultas Kedokteran,2022,Lainnya,4,5,Tepat Waktu,0
+20001222,P,24,FEB,2023,Jurnal Ilmiah,3,4,Tepat Waktu,0
+20001693,L,18,FEB,2023,Text Book,2,9,Telat,2000
+20001782,P,24,Fakultas Teknik,2021,Fiksi,4,1,Tepat Waktu,0
+20001495,L,18,Fakultas Teknik,2020,Fiksi,2,1,Tepat Waktu,0
+20001763,L,22,FEB,2022,Lainnya,2,7,Tepat Waktu,0
+20001514,L,18,FEB,2022,Fiksi,3,5,Tepat Waktu,0
+20001139,L,23,Fakultas Kedokteran,2021,Lainnya,1,7,Tepat Waktu,0
+20001433,L,20,Fakultas Teknik,2019,Text Book,2,1,Tepat Waktu,0
+20001147,P,24,Fakultas Teknik,2021,Lainnya,3,7,Tepat Waktu,0
+20001664,P,19,FEB,2019,Fiksi,1,4,Tepat Waktu,0
+20001819,L,19,FEB,2023,Lainnya,2,6,Tepat Waktu,0
+20001082,P,21,Fakultas Kedokteran,2021,Jurnal Ilmiah,4,1,Tepat Waktu,0
+20001158,L,22,Fakultas Teknik,2019,Text Book,2,7,Tepat Waktu,0
+20001457,L,21,Fakultas Teknik,2023,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001414,L,21,Fakultas Teknik,2023,Text Book,1,6,Tepat Waktu,0
+20001011,P,23,FEB,2021,Lainnya,1,5,Tepat Waktu,0
+20001583,L,22,Fakultas Teknik,2023,Lainnya,1,2,Tepat Waktu,0
+20001881,P,20,Fakultas Teknik,2023,Text Book,1,9,Telat,2000
+20001300,P,23,FEB,2021,Text Book,2,6,Tepat Waktu,0
+20001300,L,22,Fakultas Kedokteran,2023,Text Book,4,5,Tepat Waktu,0
+20001827,P,22,Fakultas Kedokteran,2019,Lainnya,4,1,Tepat Waktu,0
+20001506,P,18,Fakultas Kedokteran,2022,Jurnal Ilmiah,2,7,Tepat Waktu,0
+20001723,P,20,FEB,2021,Text Book,1,2,Tepat Waktu,0
+20001616,L,24,FEB,2022,Jurnal Ilmiah,2,2,Tepat Waktu,0
+20001090,L,24,Fakultas Teknik,2020,Fiksi,2,1,Tepat Waktu,0
+20001838,P,20,FEB,2020,Lainnya,2,3,Tepat Waktu,0
+20001240,P,18,FEB,2023,Jurnal Ilmiah,2,4,Tepat Waktu,0
+20001158,P,19,Fakultas Kedokteran,2022,Fiksi,2,6,Tepat Waktu,0
+20001256,P,23,Fakultas Kedokteran,2021,Fiksi,4,1,Tepat Waktu,0
+20001983,P,24,Fakultas Teknik,2019,Fiksi,3,5,Tepat Waktu,0
+20001439,P,22,Fakultas Teknik,2023,Text Book,4,3,Tepat Waktu,0
+20001032,P,24,Fakultas Kedokteran,2019,Text Book,4,4,Tepat Waktu,0
+20001866,P,22,Fakultas Teknik,2023,Jurnal Ilmiah,2,3,Tepat Waktu,0
+20001521,P,22,Fakultas Kedokteran,2023,Jurnal Ilmiah,2,8,Telat,1000
+20001675,L,18,Fakultas Teknik,2022,Text Book,4,2,Tepat Waktu,0
+20001632,P,23,FEB,2021,Jurnal Ilmiah,2,4,Tepat Waktu,0
+20001778,L,21,Fakultas Kedokteran,2021,Jurnal Ilmiah,2,8,Telat,1000
+20001035,L,18,Fakultas Kedokteran,2021,Jurnal Ilmiah,3,6,Tepat Waktu,0
+20001323,L,20,Fakultas Kedokteran,2022,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001056,P,21,Fakultas Kedokteran,2023,Fiksi,3,7,Tepat Waktu,0
+20001325,P,20,Fakultas Kedokteran,2019,Fiksi,1,9,Telat,2000
+20001010,L,22,Fakultas Kedokteran,2020,Lainnya,1,7,Tepat Waktu,0
+20001384,P,19,Fakultas Kedokteran,2022,Text Book,1,1,Tepat Waktu,0
+20001280,L,22,Fakultas Kedokteran,2023,Lainnya,3,1,Tepat Waktu,0
+20001610,L,22,Fakultas Teknik,2020,Lainnya,3,2,Tepat Waktu,0
+20001427,P,22,Fakultas Kedokteran,2021,Text Book,1,7,Tepat Waktu,0
+20001677,P,22,FEB,2022,Jurnal Ilmiah,2,3,Tepat Waktu,0
+20001229,P,18,Fakultas Teknik,2021,Jurnal Ilmiah,1,6,Tepat Waktu,0
+20001540,L,24,Fakultas Kedokteran,2023,Fiksi,1,1,Tepat Waktu,0
+20001773,P,19,FEB,2022,Jurnal Ilmiah,3,5,Tepat Waktu,0
+20001771,P,19,Fakultas Kedokteran,2022,Jurnal Ilmiah,3,1,Tepat Waktu,0
+20001589,L,19,Fakultas Kedokteran,2023,Fiksi,4,3,Tepat Waktu,0
+20001320,P,23,Fakultas Kedokteran,2019,Jurnal Ilmiah,3,3,Tepat Waktu,0
+20001943,L,18,Fakultas Teknik,2022,Text Book,1,5,Tepat Waktu,0
+20001319,P,18,Fakultas Teknik,2023,Lainnya,2,1,Tepat Waktu,0
+20001808,P,20,Fakultas Kedokteran,2019,Lainnya,4,6,Tepat Waktu,0
+20001528,L,21,FEB,2022,Text Book,1,9,Telat,2000
+20001271,P,22,FEB,2022,Text Book,4,9,Telat,2000
+20001066,L,24,FEB,2019,Text Book,4,6,Tepat Waktu,0
+20001178,L,22,Fakultas Teknik,2021,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001526,L,24,Fakultas Kedokteran,2022,Text Book,1,1,Tepat Waktu,0
+20001103,P,20,Fakultas Teknik,2020,Jurnal Ilmiah,1,8,Telat,1000
+20001897,L,23,FEB,2020,Text Book,1,1,Tepat Waktu,0
+20001244,L,18,Fakultas Teknik,2021,Fiksi,3,2,Tepat Waktu,0
+20001474,P,20,FEB,2021,Text Book,3,2,Tepat Waktu,0
+20001098,P,23,Fakultas Teknik,2023,Fiksi,2,7,Tepat Waktu,0
+20001135,L,23,Fakultas Teknik,2020,Text Book,1,4,Tepat Waktu,0
+20001986,L,18,Fakultas Kedokteran,2023,Jurnal Ilmiah,2,9,Telat,2000
+20001891,L,22,FEB,2021,Text Book,3,9,Telat,2000
+20001786,P,21,Fakultas Kedokteran,2019,Fiksi,2,1,Tepat Waktu,0
+20001950,L,18,Fakultas Teknik,2020,Text Book,4,8,Telat,1000
+20001881,P,22,FEB,2022,Lainnya,2,4,Tepat Waktu,0
+20001313,P,21,FEB,2019,Jurnal Ilmiah,1,2,Tepat Waktu,0
+20001548,P,19,FEB,2022,Lainnya,3,6,Tepat Waktu,0
+20001630,L,20,Fakultas Teknik,2019,Lainnya,2,7,Tepat Waktu,0
+20001811,L,24,FEB,2022,Lainnya,4,1,Tepat Waktu,0
+20001189,P,22,Fakultas Kedokteran,2019,Text Book,2,9,Telat,2000
+20001785,P,19,FEB,2022,Lainnya,2,5,Tepat Waktu,0
+20001233,L,18,Fakultas Teknik,2020,Lainnya,3,3,Tepat Waktu,0
+20001893,P,23,Fakultas Kedokteran,2023,Lainnya,4,2,Tepat Waktu,0
+20001880,L,21,FEB,2020,Text Book,3,2,Tepat Waktu,0
+20001075,P,21,Fakultas Kedokteran,2020,Lainnya,2,1,Tepat Waktu,0
+20001603,L,23,Fakultas Teknik,2022,Jurnal Ilmiah,4,5,Tepat Waktu,0
+20001030,L,23,Fakultas Kedokteran,2019,Text Book,2,6,Tepat Waktu,0
+20001064,P,22,Fakultas Teknik,2020,Fiksi,4,5,Tepat Waktu,0
+20001243,P,19,FEB,2019,Jurnal Ilmiah,2,5,Tepat Waktu,0
+20001975,P,22,Fakultas Teknik,2023,Jurnal Ilmiah,3,1,Tepat Waktu,0
+20001139,P,20,Fakultas Kedokteran,2021,Jurnal Ilmiah,3,2,Tepat Waktu,0
+20001515,P,18,Fakultas Kedokteran,2022,Fiksi,3,8,Telat,1000
+20001989,L,23,Fakultas Teknik,2023,Fiksi,2,9,Telat,2000
+20001360,P,18,Fakultas Teknik,2022,Jurnal Ilmiah,2,2,Tepat Waktu,0
+20001180,L,21,FEB,2019,Jurnal Ilmiah,3,1,Tepat Waktu,0
+20001150,P,21,Fakultas Teknik,2020,Fiksi,1,8,Telat,1000
+20001388,P,22,Fakultas Kedokteran,2023,Fiksi,1,9,Telat,2000
+20001708,P,20,Fakultas Teknik,2022,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001811,L,23,FEB,2023,Jurnal Ilmiah,3,7,Tepat Waktu,0
+20001173,L,20,FEB,2020,Text Book,3,1,Tepat Waktu,0
+20001240,L,23,Fakultas Teknik,2020,Fiksi,4,6,Tepat Waktu,0
+20001922,P,20,Fakultas Kedokteran,2019,Text Book,4,4,Tepat Waktu,0
+20001395,P,19,Fakultas Teknik,2019,Lainnya,3,4,Tepat Waktu,0
+20001783,L,19,FEB,2019,Fiksi,3,7,Tepat Waktu,0
+20001186,P,20,FEB,2020,Lainnya,2,5,Tepat Waktu,0
+20001684,L,24,Fakultas Teknik,2023,Jurnal Ilmiah,3,2,Tepat Waktu,0
+20001614,P,23,FEB,2023,Lainnya,2,1,Tepat Waktu,0
+20001693,L,19,Fakultas Kedokteran,2019,Text Book,3,5,Tepat Waktu,0
+20001258,L,24,Fakultas Teknik,2023,Jurnal Ilmiah,2,6,Tepat Waktu,0
+20001821,L,19,Fakultas Teknik,2021,Fiksi,3,8,Telat,1000
+20001267,P,18,FEB,2021,Text Book,2,4,Tepat Waktu,0
+20001035,P,24,Fakultas Kedokteran,2019,Lainnya,3,2,Tepat Waktu,0
+20001496,P,20,FEB,2022,Jurnal Ilmiah,3,9,Telat,2000
+20001934,L,24,FEB,2019,Jurnal Ilmiah,4,5,Tepat Waktu,0
+20001002,L,24,FEB,2022,Lainnya,1,5,Tepat Waktu,0
+20001238,P,18,FEB,2019,Fiksi,2,3,Tepat Waktu,0
+20001069,L,21,Fakultas Kedokteran,2021,Text Book,3,7,Tepat Waktu,0
+20001384,L,24,FEB,2020,Fiksi,2,6,Tepat Waktu,0
+20001298,L,19,FEB,2023,Fiksi,2,2,Tepat Waktu,0
+20001861,P,18,FEB,2022,Jurnal Ilmiah,2,5,Tepat Waktu,0
+20001842,L,18,FEB,2019,Lainnya,3,6,Tepat Waktu,0
+20001638,L,20,FEB,2020,Text Book,4,7,Tepat Waktu,0
+20001008,P,24,FEB,2021,Jurnal Ilmiah,1,5,Tepat Waktu,0
+20001212,P,21,Fakultas Teknik,2023,Lainnya,3,2,Tepat Waktu,0
+20001808,P,23,Fakultas Teknik,2019,Text Book,3,9,Telat,2000
+20001221,L,19,FEB,2019,Lainnya,4,1,Tepat Waktu,0
+20001549,P,23,Fakultas Kedokteran,2020,Text Book,3,5,Tepat Waktu,0
+20001301,L,21,Fakultas Kedokteran,2019,Text Book,1,9,Telat,2000
+20001830,L,22,FEB,2023,Text Book,2,6,Tepat Waktu,0
+20001206,P,20,Fakultas Teknik,2019,Text Book,4,2,Tepat Waktu,0
+20001704,L,21,Fakultas Kedokteran,2023,Lainnya,2,8,Telat,1000
+20001193,L,20,Fakultas Kedokteran,2019,Text Book,4,6,Tepat Waktu,0
+20001928,P,24,Fakultas Kedokteran,2021,Text Book,2,7,Tepat Waktu,0
+20001800,L,19,Fakultas Kedokteran,2019,Text Book,3,8,Telat,1000
+20001342,P,20,FEB,2019,Text Book,1,8,Telat,1000
+20001870,P,18,Fakultas Teknik,2023,Jurnal Ilmiah,1,1,Tepat Waktu,0
+20001099,P,18,FEB,2019,Lainnya,1,8,Telat,1000
+20001578,P,22,Fakultas Teknik,2022,Fiksi,4,8,Telat,1000
+20001101,P,23,Fakultas Teknik,2023,Fiksi,1,5,Tepat Waktu,0
+20001431,L,21,Fakultas Kedokteran,2021,Jurnal Ilmiah,2,2,Tepat Waktu,0
+20001853,P,21,FEB,2020,Jurnal Ilmiah,3,7,Tepat Waktu,0
+20001623,P,22,FEB,2019,Fiksi,2,2,Tepat Waktu,0
+20001960,L,23,Fakultas Kedokteran,2020,Lainnya,1,3,Tepat Waktu,0
+20001112,L,23,Fakultas Kedokteran,2022,Fiksi,2,5,Tepat Waktu,0
+20001537,P,21,FEB,2023,Fiksi,1,5,Tepat Waktu,0
+20001180,L,23,Fakultas Kedokteran,2023,Fiksi,2,6,Tepat Waktu,0
+20001766,P,18,Fakultas Kedokteran,2023,Jurnal Ilmiah,3,3,Tepat Waktu,0
+20001798,L,20,Fakultas Kedokteran,2020,Jurnal Ilmiah,3,1,Tepat Waktu,0
+20001742,P,20,Fakultas Kedokteran,2019,Fiksi,2,4,Tepat Waktu,0
+20001626,L,18,Fakultas Kedokteran,2022,Text Book,2,8,Telat,1000
+20001528,L,19,FEB,2020,Jurnal Ilmiah,4,9,Telat,2000
+20001612,P,24,Fakultas Kedokteran,2022,Text Book,2,2,Tepat Waktu,0
+20001748,L,19,FEB,2021,Jurnal Ilmiah,4,4,Tepat Waktu,0
+20001969,P,22,FEB,2021,Text Book,3,5,Tepat Waktu,0
+20001217,P,22,Fakultas Kedokteran,2023,Fiksi,1,4,Tepat Waktu,0
+20001093,L,18,FEB,2022,Jurnal Ilmiah,4,9,Telat,2000
+20001239,P,21,FEB,2021,Lainnya,1,9,Telat,2000
+20001127,L,19,Fakultas Teknik,2023,Jurnal Ilmiah,3,5,Tepat Waktu,0
+20001680,P,21,FEB,2022,Fiksi,3,3,Tepat Waktu,0
+20001892,L,19,Fakultas Kedokteran,2019,Fiksi,4,5,Tepat Waktu,0
+20001743,P,21,FEB,2020,Lainnya,1,4,Tepat Waktu,0
+20001899,L,19,FEB,2022,Jurnal Ilmiah,1,5,Tepat Waktu,0
+20001998,L,22,FEB,2022,Jurnal Ilmiah,3,5,Tepat Waktu,0
+20001393,P,23,Fakultas Teknik,2022,Lainnya,2,8,Telat,1000
+20001331,L,20,Fakultas Teknik,2022,Fiksi,3,8,Telat,1000
+20001925,L,19,Fakultas Teknik,2023,Text Book,3,2,Tepat Waktu,0
+20001444,L,22,FEB,2019,Text Book,3,6,Tepat Waktu,0
+20001316,P,21,FEB,2021,Fiksi,4,1,Tepat Waktu,0
+20001054,L,21,Fakultas Kedokteran,2021,Fiksi,2,4,Tepat Waktu,0
+20001355,L,22,Fakultas Teknik,2020,Lainnya,4,3,Tepat Waktu,0
+20001850,P,21,FEB,2019,Lainnya,4,8,Telat,1000
+20001383,L,19,Fakultas Teknik,2023,Jurnal Ilmiah,2,8,Telat,1000
+20001004,P,18,Fakultas Teknik,2023,Fiksi,3,8,Telat,1000
+20001591,L,24,Fakultas Kedokteran,2023,Jurnal Ilmiah,1,4,Tepat Waktu,0
+20001454,P,20,Fakultas Teknik,2020,Jurnal Ilmiah,3,4,Tepat Waktu,0
+20001620,P,22,Fakultas Kedokteran,2023,Jurnal Ilmiah,1,6,Tepat Waktu,0
+20001031,P,21,Fakultas Kedokteran,2021,Text Book,2,1,Tepat Waktu,0
+20001025,L,18,Fakultas Kedokteran,2022,Lainnya,2,1,Tepat Waktu,0
+20001729,P,21,Fakultas Teknik,2023,Text Book,4,7,Tepat Waktu,0
+20001848,P,22,FEB,2020,Fiksi,1,3,Tepat Waktu,0
+20001580,P,22,Fakultas Kedokteran,2023,Jurnal Ilmiah,3,2,Tepat Waktu,0
+20001622,L,23,Fakultas Teknik,2020,Text Book,3,1,Tepat Waktu,0
+20001687,L,20,FEB,2023,Lainnya,2,7,Tepat Waktu,0
+20001581,P,21,Fakultas Teknik,2019,Text Book,3,2,Tepat Waktu,0
+20001616,P,24,Fakultas Kedokteran,2023,Lainnya,1,3,Tepat Waktu,0
+20001326,P,23,Fakultas Teknik,2021,Text Book,3,3,Tepat Waktu,0
+20001180,L,24,Fakultas Kedokteran,2021,Fiksi,1,1,Tepat Waktu,0
+20001507,L,19,FEB,2020,Jurnal Ilmiah,3,5,Tepat Waktu,0
+20001537,P,20,Fakultas Kedokteran,2022,Fiksi,3,5,Tepat Waktu,0
+20001041,P,20,Fakultas Teknik,2022,Lainnya,1,2,Tepat Waktu,0
+20001095,P,23,Fakultas Kedokteran,2022,Fiksi,4,9,Telat,2000
+20001994,L,20,Fakultas Teknik,2021,Lainnya,3,8,Telat,1000
+20001729,L,22,Fakultas Kedokteran,2020,Text Book,1,2,Tepat Waktu,0
+20001545,P,18,FEB,2023,Text Book,3,3,Tepat Waktu,0
+20001823,L,19,Fakultas Teknik,2019,Lainnya,3,8,Telat,1000
+20001142,L,22,FEB,2023,Text Book,3,3,Tepat Waktu,0
+20001414,L,19,Fakultas Teknik,2020,Jurnal Ilmiah,1,2,Tepat Waktu,0
+20001114,P,20,Fakultas Kedokteran,2020,Text Book,3,8,Telat,1000
+20001195,L,18,FEB,2019,Text Book,3,5,Tepat Waktu,0
+20001630,P,18,Fakultas Teknik,2019,Lainnya,1,7,Tepat Waktu,0
+20001838,L,20,Fakultas Kedokteran,2020,Lainnya,3,2,Tepat Waktu,0
+20001962,L,22,Fakultas Teknik,2021,Fiksi,1,9,Telat,2000
+20001191,L,24,FEB,2023,Jurnal Ilmiah,4,7,Tepat Waktu,0
+20001138,P,21,FEB,2022,Jurnal Ilmiah,4,2,Tepat Waktu,0
+20001264,P,20,Fakultas Teknik,2022,Jurnal Ilmiah,4,6,Tepat Waktu,0
+20001862,P,18,Fakultas Kedokteran,2020,Jurnal Ilmiah,2,5,Tepat Waktu,0
+20001744,P,21,Fakultas Teknik,2019,Text Book,2,9,Telat,2000
